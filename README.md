@@ -1,12 +1,27 @@
-Hi, I’m Efe Abul  
-AI Engineer | Interested in Computer Vision, NLP & Data Science  
+<h1 align="center">Hi, I'm Efe Abul 👋</h1>
 
-🎓 Recent graduate in Artificial Intelligence Engineering from TOBB University of Economics and Technology.  
-👨‍💻 Gained experience through internships at Teknopar, HAVELSAN, and Innova, working on **computer vision, NLP, optimization, and data-driven AI solutions**.  
-📈 Passionate about building AI-driven systems and continuously learning advanced deep learning methods.  
+<p align="center">
+🎓 Recent graduate in <b>Artificial Intelligence Engineering</b> from TOBB University of Economics and Technology. <br>
+👨‍💻 Experienced from internships at <b>Teknopar</b>, <b>HAVELSAN</b>, and <b>Innova</b>, focusing on computer vision, NLP, optimization, and data-driven AI solutions. <br>
+📈 Passionate about building AI-driven systems and continuously learning advanced deep learning methods.
+</p>
 
-Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/efeabul) | [GitHub](https://github.com/EfeAbul) | [Email](mailto:efeabul.dev@gmail.com)
+---
+
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/efeabul" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/EfeAbul" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:efeabul.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
