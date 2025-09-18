@@ -1,10 +1,15 @@
 <h1 align="center">Hi, I'm Efe Abul 👋</h1>
 
-<p align="center">
-🎓 Recent graduate in <b>Artificial Intelligence Engineering</b> from TOBB University of Economics and Technology. <br>
-👨‍💻 Experienced from internships at <b>Teknopar</b>, <b>HAVELSAN</b>, and <b>Innova</b>, focusing on computer vision, NLP, optimization, and data-driven AI solutions. <br>
-📈 Passionate about building AI-driven systems and continuously learning advanced deep learning methods.
-</p>
+---
+
+🎓 ![Graduate](https://img.shields.io/badge/Graduate-AI%20Engineering-blue?style=flat&logo=graduated&logoColor=white)  
+Recent graduate in Artificial Intelligence Engineering from TOBB University of Economics and Technology.  
+
+👨‍💻 ![Experience](https://img.shields.io/badge/Experience-Internships-green?style=flat&logo=code&logoColor=white)  
+Internships at **Teknopar**, **HAVELSAN**, and **Innova**, focusing on computer vision, NLP, optimization, and data-driven AI solutions.  
+
+📈 ![Passion](https://img.shields.io/badge/Passion-AI%20Driven%20Systems-orange?style=flat&logo=ai&logoColor=white)  
+Passionate about building AI-driven systems and continuously learning advanced deep learning methods.  
 
 ---
 
@@ -21,6 +26,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
 ---
