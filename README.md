@@ -2,14 +2,9 @@
 
 ---
 
-🎓 ![Graduate](https://img.shields.io/badge/Graduate-AI%20Engineering-blue?style=flat&logo=graduated&logoColor=white)  
-Recent graduate in Artificial Intelligence Engineering from TOBB University of Economics and Technology.  
-
-👨‍💻 ![Experience](https://img.shields.io/badge/Experience-Internships-green?style=flat&logo=code&logoColor=white)  
-Internships at **Teknopar**, **HAVELSAN**, and **Innova**, focusing on computer vision, NLP, optimization, and data-driven AI solutions.  
-
-📈 ![Passion](https://img.shields.io/badge/Passion-AI%20Driven%20Systems-orange?style=flat&logo=ai&logoColor=white)  
-Passionate about building AI-driven systems and continuously learning advanced deep learning methods.  
+🎓 Recent graduate in Artificial Intelligence Engineering from TOBB University of Economics and Technology.  
+👨‍💻 Experienced from internships at Teknopar, HAVELSAN, and Innova, focusing on computer vision, NLP, optimization, and data-driven AI solutions.  
+📈 Passionate about building AI-driven systems and continuously learning advanced deep learning methods.  
 
 ---
 
@@ -26,6 +21,7 @@ Passionate about building AI-driven systems and continuously learning advanced d
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 
 
