@@ -1,12 +1,12 @@
 Hi, I’m Efe Abul  
-AI Engineering Student | Interested in Computer Vision, NLP & Data Science  
+AI Engineer | Interested in Computer Vision, NLP & Data Science  
 
-🎓 Final-year Artificial Intelligence Engineering student at TOBB University of Economics and Technology.  
-👨‍💻 Experienced in internships at Teknopar, HAVELSAN, and Innova, focusing on **computer vision, NLP, optimization, and full-stack development**.  
-📈 Passionate about building **AI-driven solutions** and continuously learning advanced deep learning methods.  
+🎓 Recent graduate in Artificial Intelligence Engineering from TOBB University of Economics and Technology.  
+👨‍💻 Gained experience through internships at Teknopar, HAVELSAN, and Innova, working on **computer vision, NLP, optimization, and data-driven AI solutions**.  
+📈 Passionate about building AI-driven systems and continuously learning advanced deep learning methods.  
 
 Connect with me:  
-[LinkedIn](https://www.linkedin.com/in/efeabul) | [GitHub](https://github.com/EfeAbul)  
+[LinkedIn](https://www.linkedin.com/in/efeabul) | [GitHub](https://github.com/EfeAbul) | [Email](mailto:efeabul.dev@gmail.com)
 
 ---
 
